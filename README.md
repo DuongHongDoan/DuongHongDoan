@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @DuongHongDoan
-- 👀 I’m interested in ...
-- 🌱 I'm from VietNam, I’m currently learning data communication and computer network.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning data communication and computer network.
 
 <!---
 DuongHongDoan/DuongHongDoan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
