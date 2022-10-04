@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DuongHongDoan
-- 🌱 I’m currently learning data communication and computer network.
+- 🌱 I’m currently learning data communication and computer networks.
 
 <!---
 DuongHongDoan/DuongHongDoan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
